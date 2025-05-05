@@ -24,6 +24,6 @@ Este é um aplicativo simples de lista de tarefas desenvolvido com **Flutter**, 
 
 ```bash
 git clone
-cd todo_app_flutter
+cd to-do-flutter
 flutter pub get
 flutter run
