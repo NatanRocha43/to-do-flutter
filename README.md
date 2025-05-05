@@ -1,16 +1,29 @@
-# teste
+# 📝 TodoApp - Lista de Tarefas em Flutter
 
-A new Flutter project.
+Este é um aplicativo simples de lista de tarefas desenvolvido com **Flutter**, com funcionalidade básica para adicionar e remover tarefas.
 
-## Getting Started
+## 📱 Funcionalidades
 
-This project is a starting point for a Flutter application.
+- ✅ Adicionar uma nova tarefa
+- ❌ Remover tarefa ao tocar sobre ela
+- 💾 Armazenamento em memória (não persistente)
 
-A few resources to get you started if this is your first Flutter project:
+## 🔧 Tecnologias utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Como executar o projeto
+
+### Pré-requisitos
+
+- Flutter instalado ([instruções oficiais](https://docs.flutter.dev/get-started/install))
+- Um emulador ou dispositivo físico conectado
+
+### Passos para rodar localmente
+
+```bash
+git clone
+cd todo_app_flutter
+flutter pub get
+flutter run
